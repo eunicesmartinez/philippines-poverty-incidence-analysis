@@ -89,7 +89,9 @@ These are descriptive comparisons, not evidence of causation. The largest change
 ## Repository Structure
 
 - `data/raw/` — Original source data
-- `data/processed/` — Cleaned dataset used for analysis
+- `data/processed/`
+  - `poverty_incidence_clean.csv` — Cleaned poverty incidence data in long format, with one row per geographic location and year.
+  - `poverty_incidence_with_precision.csv` — Enhanced dataset containing poverty incidence, annual per capita poverty thresholds, coefficients of variation, standard errors, and 95% confidence interval bounds for 2018, 2021, and 2023.
 - `notebooks/` — Data inspection and cleaning notebook
 - `sql/` — Exploratory queries, database views and functions, data quality checks, and SQL documentation
 - `outputs/` — Space for generated tables and visualizations
