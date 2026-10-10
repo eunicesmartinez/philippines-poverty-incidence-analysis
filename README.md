@@ -95,8 +95,6 @@ These are descriptive comparisons, not evidence of causation. The largest change
 - `notebooks/` — Data inspection and cleaning notebook
 - `sql/` — Exploratory queries, database views and functions, data quality checks, and SQL documentation
 - `outputs/` — Space for generated tables and visualizations
-- `src/` — Space for reusable Python code
-- `tests/` — Space for project tests
 
 ## Future Improvements
 
