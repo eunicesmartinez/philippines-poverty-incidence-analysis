@@ -50,6 +50,16 @@ The dataset includes national, regional, provincial, and city-level geographic l
 
 These findings are descriptive comparisons of reported estimates. They do not establish the causes of changes in poverty incidence.
 
+### Location-Level Change Analysis
+
+A SQL analysis compared reported poverty incidence between 2018 and 2023 using common table expressions, conditional aggregation, and window functions.
+
+- **Largest reported increase:** Tawi-tawi increased from 22% to 42%, a change of **+20 percentage points**.
+- **Largest reported decrease:** Sulu decreased from 83% to 21%, a change of **−62 percentage points**.
+- **National change:** The Philippines decreased from 17% to 16%, a change of **−1 percentage point**.
+
+These are descriptive comparisons, not evidence of causation. The largest changes warrant verification against the original source and its methodology. Because the dataset includes different geographic levels, these figures should not be interpreted as a like-for-like ranking of equivalent administrative units.
+
 ## Visualizations
 
 ### 1. National Poverty Incidence (2018–2023)
