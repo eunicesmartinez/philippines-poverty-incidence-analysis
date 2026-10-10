@@ -33,3 +33,38 @@ This table stores reported poverty incidence estimates for 138 geographic labels
 The source combines national, regional, provincial, and city-level geographic labels. Some province-level estimates explicitly exclude separately reported cities. Geographic labels are therefore preserved from the source rather than assigned to a hierarchy without verification.
 
 The dataset contains three reference years, not continuous annual observations. Changes describe differences between reported estimates and do not establish causation.
+
+## SQL Analysis Files
+
+### `01_exploratory_analysis.sql`
+
+Contains exploratory queries for examining the dataset, summarizing poverty incidence, and identifying locations with high reported poverty incidence.
+
+### `02_views_and_functions.sql`
+
+Creates reusable database objects:
+
+- `v_national_poverty_trend`: Summarizes national poverty incidence by reference year.
+- `v_poverty_change_2018_2023`: Compares reported poverty incidence between 2018 and 2023.
+- `get_poverty_change(...)`: Calculates the percentage-point difference for a selected location between two years.
+
+### `03_data_quality_checks.sql`
+
+Contains validation queries to examine missing estimates, duplicate location-year records, valid percentage ranges, and other potential data quality issues.
+
+### `04_location_change_analysis.sql`
+
+Compares reported poverty incidence by geographic label between 2018 and 2023.
+
+- Uses common table expressions (CTEs) to organize the analysis into readable steps.
+- Uses conditional aggregation to compare estimates across years.
+- Calculates changes in percentage points.
+- Uses window functions to rank increases and decreases.
+- Flags locations with missing estimates and leaves their change rankings unassigned.
+
+## Interpretation Notes
+
+- An increase or decrease describes a difference between reported estimates; it does not establish why the change occurred.
+- Rankings include different geographic levels and should not be interpreted as direct comparisons between equivalent geographic units.
+- Large changes should be verified against the original source and its methodology before drawing conclusions.
+- Missing estimates are preserved rather than imputed.
