@@ -34,6 +34,18 @@ The source combines national, regional, provincial, and city-level geographic la
 
 The dataset contains three reference years, not continuous annual observations. Changes describe differences between reported estimates and do not establish causation.
 
+## Setup and Execution
+
+1. Create a PostgreSQL database named `philippines_poverty`.
+2. Create the `poverty_incidence` table using the schema and constraints described above.
+3. Import `data/processed/poverty_incidence_clean.csv` into the `poverty_incidence` table. Ensure the CSV columns map to `geolocation`, `year`, and `poverty_incidence_pct`.
+4. Run `01_exploratory_analysis.sql` to explore the data.
+5. Run `02_views_and_functions.sql` to create reusable views and the change-calculation function.
+6. Run `03_data_quality_checks.sql` to validate data quality.
+7. Run `04_location_change_analysis.sql` to compare reported poverty incidence between 2018 and 2023.
+
+The SQL scripts assume the database and table have already been created and the cleaned CSV has been imported.
+
 ## SQL Analysis Files
 
 ### `01_exploratory_analysis.sql`
