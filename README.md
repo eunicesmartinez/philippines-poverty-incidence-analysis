@@ -50,6 +50,22 @@ The dataset includes national, regional, provincial, and city-level geographic l
 
 These findings are descriptive comparisons of reported estimates. They do not establish the causes of changes in poverty incidence.
 
+## Visualizations
+
+### 1. National Poverty Incidence (2018–2023)
+
+![National poverty incidence trend](outputs/national_poverty_trend.png)
+
+### 2. Locations with the Highest Reported Poverty Incidence in 2023
+
+![Top 10 locations by poverty incidence in 2023](outputs/top_10_poverty_incidence_2023.png)
+
+### 3. Largest Changes in Reported Poverty Incidence (2018–2023)
+
+![Largest increases and decreases in poverty incidence](outputs/poverty_incidence_change_2018_2023.png)
+
+**Interpretation note:** The dataset contains estimates for 2018, 2021, and 2023, rather than continuous annual observations. Geographic levels vary across the dataset, so location rankings and changes should be interpreted with care.
+
 ## Data Limitations
 
 - The dataset contains three reference years, not continuous annual observations.
