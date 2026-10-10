@@ -56,6 +56,8 @@ A SQL analysis compared reported poverty incidence between 2018 and 2023 using c
 
 - **Largest reported increase:** Tawi-tawi increased from 22% to 42%, a change of **+20 percentage points**.
 - **Largest reported decrease:** Sulu decreased from 83% to 21%, a change of **−62 percentage points**.
+
+  **Precision check:** The Sulu estimates were checked against the Philippine Statistics Authority's original table. The reported 95% confidence intervals were 79%–86% for 2018 and 16%–25% for 2023. These intervals do not overlap, although a formal statistical comparison would need to account for the survey design. The reported change is descriptive and does not explain its causes.
 - **National change:** The Philippines decreased from 17% to 16%, a change of **−1 percentage point**.
 
 These are descriptive comparisons, not evidence of causation. The largest changes warrant verification against the original source and its methodology. Because the dataset includes different geographic levels, these figures should not be interpreted as a like-for-like ranking of equivalent administrative units.
