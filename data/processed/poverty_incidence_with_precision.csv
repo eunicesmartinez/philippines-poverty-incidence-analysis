@@ -1,0 +1,415 @@
+Geolocation,Year,Poverty_Incidence_Pct,Poverty_Threshold_PHP,Coefficient_of_Variation_Pct,Standard_Error_Pct_Points,CI_Lower_Pct,CI_Upper_Pct
+PHILIPPINES,2018,17.0,25814.0,1.0,0.0,16.0,17.0
+PHILIPPINES,2021,18,28794.0,1,0,18,19
+PHILIPPINES,2023,16,33296.0,1,0,15,16
+National Capital Region (NCR),2018,2.0,28682.0,11.0,0.0,2.0,3.0
+National Capital Region (NCR),2021,4,32978.0,7,0,3,4
+National Capital Region (NCR),2023,2,37711.0,10,0,2,2
+City of Manila,2018,3.0,28682.0,30.0,1.0,1.0,5.0
+City of Manila,2021,2,32978.0,33,1,1,3
+City of Manila,2023,2,37711.0,27,1,1,4
+City of Mandaluyong,2018,1.0,28682.0,39.0,1.0,0.0,2.0
+City of Mandaluyong,2021,1,32978.0,52,0,0,1
+City of Mandaluyong,2023,1,37711.0,53,0,0,1
+City of Marikina,2018,2.0,28682.0,27.0,1.0,1.0,3.0
+City of Marikina,2021,3,32978.0,22,1,1,4
+City of Marikina,2023,1,37711.0,42,0,0,2
+City of Pasig,2018,3.0,28682.0,26.0,1.0,1.0,4.0
+City of Pasig,2021,4,32978.0,20,1,2,5
+City of Pasig,2023,3,37711.0,26,1,2,5
+Quezon City,2018,2.0,28682.0,33.0,1.0,1.0,4.0
+Quezon City,2021,3,32978.0,22,1,2,4
+Quezon City,2023,1,37711.0,35,0,0,2
+City of San Juan,2018,1.0,28682.0,74.0,1.0,0.0,2.0
+City of San Juan,2021,-,32978.0,-,-,-,-
+City of San Juan,2023,-,37711.0,-,-,-,-
+City of Caloocan,2018,5.0,28682.0,17.0,1.0,3.0,6.0
+City of Caloocan,2021,6,32978.0,14,1,4,8
+City of Caloocan,2023,3,37711.0,23,1,2,4
+City of Malabon,2018,2.0,28682.0,27.0,1.0,1.0,3.0
+City of Malabon,2021,5,32978.0,18,1,3,6
+City of Malabon,2023,2,37711.0,22,1,1,3
+City of Navotas,2018,3.0,28682.0,23.0,1.0,2.0,5.0
+City of Navotas,2021,5,32978.0,17,1,3,7
+City of Navotas,2023,4,37711.0,17,1,3,5
+City of Valenzuela,2018,1.0,28682.0,48.0,0.0,0.0,1.0
+City of Valenzuela,2021,2,32978.0,20,0,1,3
+City of Valenzuela,2023,1,37711.0,33,0,0,2
+City of Las Pi�as,2018,2.0,28682.0,32.0,1.0,1.0,3.0
+City of Las Pi�as,2021,4,32978.0,20,1,2,5
+City of Las Pi�as,2023,1,37711.0,35,0,0,2
+City of Makati,2018,0.0,28682.0,73.0,0.0,0.0,1.0
+City of Makati,2021,2,32978.0,37,1,0,3
+City of Makati,2023,1,37711.0,52,1,0,2
+City of Muntinlupa,2018,1.0,28682.0,32.0,0.0,0.0,2.0
+City of Muntinlupa,2021,3,32978.0,23,1,1,4
+City of Muntinlupa,2023,0,37711.0,100,0,0,0
+City of Para�aque,2018,1.0,28682.0,46.0,0.0,0.0,2.0
+City of Para�aque,2021,4,32978.0,23,1,2,6
+City of Para�aque,2023,1,37711.0,48,1,0,2
+Pasay City,2018,2.0,28682.0,24.0,1.0,1.0,3.0
+Pasay City,2021,4,32978.0,22,1,2,6
+Pasay City,2023,1,37711.0,67,1,0,2
+Pateros,2018,3.0,28682.0,40.0,1.0,1.0,5.0
+Pateros,2021,5,32978.0,24,1,2,7
+Pateros,2023,1,37711.0,49,1,0,3
+City of Taguig,2018,1.0,28682.0,45.0,0.0,0.0,1.0
+City of Taguig,2021,7,32978.0,14,1,5,8
+City of Taguig,2023,3,37711.0,24,1,2,5
+Cordillera Administrative Region (CAR),2018,12.0,24907.0,5.0,1.0,11.0,13.0
+Cordillera Administrative Region (CAR),2021,10,28304.0,5,1,9,11
+Cordillera Administrative Region (CAR),2023,7,31774.0,8,1,6,8
+Abra,2018,19.0,23596.0,8.0,2.0,16.0,22.0
+Abra,2021,22,29321.0,9,2,18,25
+Abra,2023,14,30759.0,15,2,10,18
+Apayao,2018,20.0,23135.0,14.0,3.0,15.0,25.0
+Apayao,2021,7,25694.0,21,1,4,10
+Apayao,2023,6,29884.0,27,2,3,9
+Benguet (w/o the City of Baguio),2018,9.0,24065.0,16.0,1.0,6.0,12.0
+Benguet (w/o the City of Baguio),2021,9,27432.0,12,1,7,11
+Benguet (w/o the City of Baguio),2023,6,31205.0,19,1,4,9
+City of Baguio,2018,2.0,24620.0,24.0,1.0,1.0,3.0
+City of Baguio,2021,2,28108.0,27,1,1,3
+City of Baguio,2023,1,31654.0,42,0,0,2
+Ifugao,2018,15.0,26429.0,14.0,2.0,10.0,19.0
+Ifugao,2021,8,28734.0,18,1,5,11
+Ifugao,2023,7,29994.0,15,1,5,10
+Kalinga,2018,12.0,24219.0,13.0,2.0,9.0,15.0
+Kalinga,2021,8,25447.0,19,2,5,11
+Kalinga,2023,4,30353.0,23,1,2,6
+Mt. Province,2018,25.0,27815.0,10.0,2.0,20.0,29.0
+Mt. Province,2021,22,31063.0,9,2,18,26
+Mt. Province,2023,17,36120.0,12,2,13,21
+Region I (Ilocos Region),2018,10.0,27055.0,9.0,1.0,8.0,12.0
+Region I (Ilocos Region),2021,14,31113.0,7,1,13,16
+Region I (Ilocos Region),2023,12,34454.0,10,1,10,14
+Ilocos Norte,2018,5.0,26711.0,20.0,1.0,3.0,6.0
+Ilocos Norte,2021,3,31031.0,26,1,1,4
+Ilocos Norte,2023,1,36096.0,52,0,0,1
+Ilocos Sur,2018,8.0,24603.0,15.0,1.0,5.0,10.0
+Ilocos Sur,2021,15,32752.0,10,2,12,18
+Ilocos Sur,2023,7,35599.0,16,1,5,9
+La Union,2018,4.0,22456.0,20.0,1.0,3.0,6.0
+La Union,2021,9,27909.0,13,1,7,12
+La Union,2023,9,33304.0,15,1,6,11
+Pangasinan,2018,13.0,27828.0,11.0,1.0,10.0,16.0
+Pangasinan,2021,18,31240.0,8,2,15,21
+Pangasinan,2023,16,34502.0,12,2,12,20
+Region II (Cagayan Valley),2018,16.0,25099.0,6.0,1.0,14.0,18.0
+Region II (Cagayan Valley),2021,15,28292.0,7,1,13,17
+Region II (Cagayan Valley),2023,10,32160.0,8,1,9,12
+Batanes,2018,10.0,37540.0,17.0,2.0,6.0,13.0
+Batanes,2021,3,35550.0,28,1,2,5
+Batanes,2023,4,39826.0,25,1,2,7
+Cagayan,2018,16.0,24759.0,9.0,2.0,13.0,19.0
+Cagayan,2021,10,26954.0,13,1,8,13
+Cagayan,2023,8,30055.0,16,1,6,11
+Isabela,2018,17.0,25460.0,10.0,2.0,14.0,21.0
+Isabela,2021,20,29452.0,9,2,17,24
+Isabela,2023,12,34500.0,12,1,9,15
+Nueva Vizcaya,2018,16.0,24857.0,13.0,2.0,12.0,20.0
+Nueva Vizcaya,2021,15,25514.0,13,2,11,19
+Nueva Vizcaya,2023,12,28778.0,14,2,8,15
+Quirino,2018,13.0,23580.0,12.0,1.0,10.0,15.0
+Quirino,2021,9,27060.0,14,1,7,12
+Quirino,2023,10,29189.0,14,1,8,13
+Region III (Central Luzon),2018,7.0,26954.0,6.0,0.0,6.0,8.0
+Region III (Central Luzon),2021,11,31584.0,6,1,10,13
+Region III (Central Luzon),2023,8,38510.0,6,1,7,9
+Aurora,2018,16.0,25219.0,11.0,2.0,13.0,20.0
+Aurora,2021,22,30282.0,11,2,17,26
+Aurora,2023,15,33172.0,11,2,12,19
+Bataan,2018,8.0,29496.0,14.0,1.0,6.0,10.0
+Bataan,2021,12,31046.0,10,1,9,14
+Bataan,2023,9,35822.0,12,1,7,11
+Bulacan,2018,5.0,27244.0,19.0,1.0,3.0,7.0
+Bulacan,2021,11,33591.0,15,2,8,14
+Bulacan,2023,9,41511.0,12,1,7,11
+Nueva Ecija,2018,9.0,25466.0,13.0,1.0,6.0,11.0
+Nueva Ecija,2021,14,29751.0,12,2,11,17
+Nueva Ecija,2023,10,36339.0,15,2,7,13
+Pampanga (w/o the City of Angeles),2018,3.0,26585.0,28.0,1.0,2.0,5.0
+Pampanga (w/o the City of Angeles),2021,5,33593.0,19,1,3,7
+Pampanga (w/o the City of Angeles),2023,2,38397.0,24,1,1,3
+City of Angeles,2018,2.0,27086.0,29.0,1.0,1.0,3.0
+City of Angeles,2021,3,34373.0,25,1,2,4
+City of Angeles,2023,1,38167.0,50,0,0,1
+Tarlac,2018,11.0,25386.0,11.0,1.0,8.0,13.0
+Tarlac,2021,12,29704.0,10,1,10,14
+Tarlac,2023,10,36682.0,15,2,7,13
+Zambales (w/o the City of Olongapo),2018,19.0,29897.0,11.0,2.0,15.0,23.0
+Zambales (w/o the City of Olongapo),2021,29,34181.0,7,2,25,33
+Zambales (w/o the City of Olongapo),2023,19,39714.0,9,2,16,23
+City of Olongapo,2018,6.0,30700.0,17.0,1.0,4.0,7.0
+City of Olongapo,2021,12,35311.0,12,1,9,14
+City of Olongapo,2023,12,41565.0,13,2,9,14
+Region IV-A (CALABARZON),2018,7.0,27928.0,7.0,1.0,6.0,8.0
+Region IV-A (CALABARZON),2021,10,31059.0,6,1,9,12
+Region IV-A (CALABARZON),2023,8,37096.0,7,1,7,9
+Batangas,2018,11.0,33068.0,11.0,1.0,9.0,14.0
+Batangas,2021,6,30828.0,19,1,4,9
+Batangas,2023,8,35380.0,16,1,5,10
+Cavite,2018,5.0,29157.0,18.0,1.0,3.0,7.0
+Cavite,2021,10,35843.0,15,2,7,13
+Cavite,2023,7,41757.0,17,1,4,9
+Laguna,2018,4.0,23688.0,20.0,1.0,2.0,5.0
+Laguna,2021,10,29892.0,14,1,7,12
+Laguna,2023,8,38492.0,14,1,6,10
+Quezon (w/o the City of Lucena),2018,15.0,22773.0,14.0,2.0,11.0,19.0
+Quezon (w/o the City of Lucena),2021,23,27082.0,10,2,19,28
+Quezon (w/o the City of Lucena),2023,11,28988.0,14,2,8,14
+City of Lucena,2018,5.0,23536.0,23.0,1.0,3.0,7.0
+City of Lucena,2021,10,28324.0,17,2,6,13
+City of Lucena,2023,5,29429.0,23,1,3,7
+Rizal,2018,5.0,28647.0,18.0,1.0,3.0,6.0
+Rizal,2021,7,32217.0,18,1,5,9
+Rizal,2023,9,39055.0,14,1,6,11
+MIMAROPA Region,2018,15.0,23315.0,6.0,1.0,13.0,17.0
+MIMAROPA Region,2021,21,26321.0,5,1,19,23
+MIMAROPA Region,2023,23,30472.0,6,1,20,26
+Marinduque,2018,15.0,24054.0,10.0,2.0,12.0,18.0
+Marinduque,2021,22,26959.0,8,2,19,26
+Marinduque,2023,13,30493.0,11,1,10,16
+Occidental Mindoro,2018,22.0,21341.0,12.0,3.0,17.0,27.0
+Occidental Mindoro,2021,30,26661.0,8,2,26,35
+Occidental Mindoro,2023,28,29253.0,13,4,21,35
+Oriental Mindoro,2018,11.0,24470.0,18.0,2.0,7.0,15.0
+Oriental Mindoro,2021,18,26265.0,14,3,13,23
+Oriental Mindoro,2023,21,31191.0,12,2,16,25
+Palawan (w/o the City of Puerto Princesa,2018,15.0,23415.0,13.0,2.0,11.0,18.0
+Palawan (w/o the City of Puerto Princesa,2021,16,24002.0,12,2,12,19
+Palawan (w/o the City of Puerto Princesa,2023,27,29552.0,12,3,21,34
+City of Puerto Princesa,2018,4.0,23541.0,23.0,1.0,2.0,6.0
+City of Puerto Princesa,2021,8,24987.0,18,1,5,10
+City of Puerto Princesa,2023,7,30465.0,18,1,4,9
+Romblon,2018,28.0,24087.0,8.0,2.0,24.0,33.0
+Romblon,2021,40,28749.0,5,2,36,44
+Romblon,2023,32,33379.0,7,2,28,37
+Region V (Bicol Region),2018,27.0,24461.0,4.0,1.0,25.0,29.0
+Region V (Bicol Region),2021,29,27675.0,4,1,27,31
+Region V (Bicol Region),2023,28,33575.0,3,1,26,29
+Albay,2018,21.0,24902.0,10.0,2.0,17.0,25.0
+Albay,2021,20,27346.0,10,2,16,24
+Albay,2023,25,35164.0,7,2,21,28
+Camarines Norte,2018,31.0,25051.0,6.0,2.0,27.0,34.0
+Camarines Norte,2021,22,27571.0,8,2,19,26
+Camarines Norte,2023,25,33747.0,7,2,22,28
+Camarines Sur,2018,28.0,24271.0,8.0,2.0,24.0,33.0
+Camarines Sur,2021,39,28651.0,6,2,34,43
+Camarines Sur,2023,29,33911.0,7,2,25,34
+Catanduanes,2018,20.0,24380.0,9.0,2.0,17.0,24.0
+Catanduanes,2021,24,28014.0,8,2,20,27
+Catanduanes,2023,31,31832.0,8,2,26,35
+Masbate,2018,33.0,22911.0,7.0,2.0,29.0,37.0
+Masbate,2021,28,25545.0,8,2,23,32
+Masbate,2023,19,28627.0,9,2,16,23
+Sorsogon,2018,26.0,26069.0,7.0,2.0,22.0,30.0
+Sorsogon,2021,30,27133.0,7,2,26,34
+Sorsogon,2023,38,34371.0,6,2,34,42
+Region VI (Western Visayas),2018,14.0,25232.0,6.0,1.0,13.0,16.0
+Region VI (Western Visayas),2021,17,27339.0,6,1,15,19
+Region VI (Western Visayas),2023,14,33122.0,6,1,12,15
+Aklan,2018,12.0,23745.0,13.0,2.0,9.0,15.0
+Aklan,2021,20,26837.0,12,2,16,25
+Aklan,2023,5,30138.0,17,1,3,6
+Antique,2018,19.0,24023.0,10.0,2.0,15.0,23.0
+Antique,2021,24,26633.0,9,2,19,28
+Antique,2023,19,32905.0,11,2,15,23
+Capiz,2018,6.0,22669.0,15.0,1.0,4.0,8.0
+Capiz,2021,10,26692.0,16,2,7,13
+Capiz,2023,13,33241.0,13,2,10,17
+Guimaras,2018,10.0,25899.0,20.0,2.0,6.0,13.0
+Guimaras,2021,10,27090.0,14,1,7,13
+Guimaras,2023,7,30847.0,27,2,3,10
+Iloilo (w/o the City of Iloilo),2018,20.0,26069.0,10.0,2.0,16.0,23.0
+Iloilo (w/o the City of Iloilo),2021,21,27746.0,11,2,17,25
+Iloilo (w/o the City of Iloilo),2023,18,33374.0,9,2,15,21
+City of Iloilo,2018,4.0,27186.0,19.0,1.0,2.0,5.0
+City of Iloilo,2021,5,29303.0,17,1,3,6
+City of Iloilo,2023,4,34878.0,22,1,2,5
+Negros Island Region (NIR),2018,21.0,24231.0,7.0,2.0,18.0,24.0
+Negros Island Region (NIR),2021,24,26497.0,6,1,21,26
+Negros Island Region (NIR),2023,29,34044.0,6,2,26,32
+Negros Occidental (w/o the City of Bacolod),2018,23.0,23676.0,10.0,2.0,18.0,27.0
+Negros Occidental (w/o the City of Bacolod),2021,26,26760.0,8,2,22,30
+Negros Occidental (w/o the City of Bacolod),2023,33,35709.0,8,3,28,38
+City of Bacolod,2018,5.0,24010.0,16.0,1.0,3.0,6.0
+City of Bacolod,2021,5,27266.0,17,1,3,7
+City of Bacolod,2023,9,35446.0,14,1,7,12
+Negros Oriental,2018,26.0,25113.0,10.0,2.0,21.0,30.0
+Negros Oriental,2021,29,26024.0,9,3,24,34
+Negros Oriental,2023,32,30724.0,9,3,27,37
+Siquijor,2018,10.0,25649.0,19.0,2.0,7.0,14.0
+Siquijor,2021,3,25603.0,33,1,1,6
+Siquijor,2023,6,31072.0,25,1,3,8
+Region VII (Central Visayas),2018,16.0,25968.0,7.0,1.0,14.0,18.0
+Region VII (Central Visayas),2021,28,32423.0,5,2,25,31
+Region VII (Central Visayas),2023,17,34553.0,6,1,15,19
+Bohol,2018,21.0,26108.0,10.0,2.0,17.0,25.0
+Bohol,2021,24,26853.0,8,2,20,27
+Bohol,2023,19,30981.0,10,2,15,23
+Cebu (w/o the Cities of Cebu  Lapu-Lapu and Mandaue),2018,19.0,25827.0,10.0,2.0,16.0,23.0
+Cebu (w/o the Cities of Cebu  Lapu-Lapu and Mandaue),2021,37,33355.0,7,3,31,42
+Cebu (w/o the Cities of Cebu  Lapu-Lapu and Mandaue),2023,22,35418.0,8,2,18,26
+City of Cebu,2018,7.0,26331.0,15.0,1.0,5.0,9.0
+City of Cebu,2021,14,35030.0,11,2,11,17
+City of Cebu,2023,8,36559.0,14,1,6,10
+City of Lapu-Lapu (Opon),2018,7.0,26281.0,18.0,1.0,4.0,9.0
+City of Lapu-Lapu (Opon),2021,15,35030.0,10,2,12,18
+City of Lapu-Lapu (Opon),2023,9,36481.0,13,1,6,11
+City of Mandaue,2018,6.0,26576.0,17.0,1.0,4.0,8.0
+City of Mandaue,2021,15,35030.0,10,2,12,18
+City of Mandaue,2023,7,35655.0,18,1,5,10
+Region VIII (Eastern Visayas),2018,31.0,24987.0,3.0,1.0,29.0,33.0
+Region VIII (Eastern Visayas),2021,29,26848.0,4,1,27,31
+Region VIII (Eastern Visayas),2023,27,32381.0,4,1,25,29
+Biliran,2018,20.0,24216.0,9.0,2.0,16.0,23.0
+Biliran,2021,27,28293.0,8,2,23,31
+Biliran,2023,13,28773.0,10,1,11,16
+Eastern Samar,2018,50.0,29070.0,5.0,2.0,45.0,54.0
+Eastern Samar,2021,38,28924.0,7,3,32,43
+Eastern Samar,2023,33,32187.0,7,2,29,38
+Leyte (w/o the City of Tacloban),2018,31.0,23564.0,7.0,2.0,27.0,35.0
+Leyte (w/o the City of Tacloban),2021,29,26482.0,8,2,25,34
+Leyte (w/o the City of Tacloban),2023,29,33736.0,7,2,25,33
+City of Tacloban,2018,8.0,23843.0,15.0,1.0,6.0,10.0
+City of Tacloban,2021,16,27752.0,12,2,12,19
+City of Tacloban,2023,16,34450.0,13,2,12,19
+Northern Samar,2018,34.0,25971.0,7.0,2.0,30.0,39.0
+Northern Samar,2021,26,26572.0,8,2,22,30
+Northern Samar,2023,29,33472.0,8,2,25,34
+Southern Leyte,2018,24.0,25756.0,8.0,2.0,20.0,28.0
+Southern Leyte,2021,22,28799.0,8,2,18,25
+Southern Leyte,2023,12,31449.0,12,1,9,15
+Samar,2018,29.0,23131.0,9.0,3.0,24.0,34.0
+Samar,2021,34,25259.0,7,2,29,38
+Samar,2023,32,29039.0,7,2,28,37
+Region IX (Zamboanga Peninsula),2018,33.0,25650.0,4.0,1.0,30.0,35.0
+Region IX (Zamboanga Peninsula),2021,30,28739.0,4,1,28,32
+Region IX (Zamboanga Peninsula),2023,32,33353.0,4,1,29,34
+Zamboanga del Norte,2018,45.0,28523.0,7.0,3.0,40.0,51.0
+Zamboanga del Norte,2021,51,33799.0,5,3,46,56
+Zamboanga del Norte,2023,48,37169.0,6,3,42,53
+Zamboanga del Sur (w/o the City of Zamboanga),2018,36.0,23761.0,8.0,3.0,30.0,41.0
+Zamboanga del Sur (w/o the City of Zamboanga),2021,29,23935.0,9,3,24,34
+Zamboanga del Sur (w/o the City of Zamboanga),2023,40,31801.0,7,3,35,45
+City of Zamboanga,2018,10.0,24828.0,12.0,1.0,8.0,13.0
+City of Zamboanga,2021,6,24856.0,16,1,4,7
+City of Zamboanga,2023,11,32876.0,17,2,8,15
+Zamboanga Sibugay,2018,35.0,23054.0,7.0,3.0,30.0,41.0
+Zamboanga Sibugay,2021,34,24708.0,7,2,29,39
+Zamboanga Sibugay,2023,24,26557.0,8,2,21,28
+Isabela City,2018,51.0,25870.0,7.0,4.0,44.0,58.0
+Isabela City,2021,17,23925.0,14,2,13,22
+Isabela City,2023,16,29770.0,18,3,11,22
+Region X (Northern Mindanao),2018,23.0,24835.0,4.0,1.0,21.0,25.0
+Region X (Northern Mindanao),2021,26,28836.0,4,1,24,28
+Region X (Northern Mindanao),2023,25,33513.0,4,1,23,27
+Bukidnon,2018,28.0,25624.0,7.0,2.0,24.0,31.0
+Bukidnon,2021,29,29040.0,9,3,24,34
+Bukidnon,2023,27,32992.0,8,2,23,31
+Camiguin,2018,24.0,26042.0,10.0,2.0,20.0,29.0
+Camiguin,2021,21,28514.0,10,2,17,25
+Camiguin,2023,15,32275.0,14,2,11,18
+Lanao del Norte (w/o the City of Iligan),2018,31.0,24315.0,7.0,2.0,26.0,35.0
+Lanao del Norte (w/o the City of Iligan),2021,43,28395.0,7,3,37,49
+Lanao del Norte (w/o the City of Iligan),2023,42,32734.0,7,3,36,48
+City of Iligan,2018,16.0,24979.0,12.0,2.0,12.0,19.0
+City of Iligan,2021,16,29658.0,11,2,13,20
+City of Iligan,2023,16,33819.0,10,2,13,19
+Misamis Occidental,2018,27.0,24505.0,8.0,2.0,22.0,31.0
+Misamis Occidental,2021,25,30062.0,10,2,20,29
+Misamis Occidental,2023,30,34598.0,6,2,27,34
+Misamis Oriental (w/o the City of Cagayan de Oro),2018,21.0,24018.0,8.0,2.0,18.0,24.0
+Misamis Oriental (w/o the City of Cagayan de Oro),2021,25,28075.0,8,2,21,29
+Misamis Oriental (w/o the City of Cagayan de Oro),2023,23,34151.0,8,2,19,26
+City of Cagayan De Oro,2018,9.0,24414.0,17.0,2.0,6.0,12.0
+City of Cagayan De Oro,2021,11,28870.0,14,1,8,13
+City of Cagayan De Oro,2023,10,34981.0,11,1,8,13
+Region XI (Davao Region),2018,19.0,25953.0,5.0,1.0,17.0,21.0
+Region XI (Davao Region),2021,17,28102.0,5,1,15,18
+Region XI (Davao Region),2023,16,31521.0,8,1,14,19
+Davao del Norte,2018,13.0,27034.0,12.0,2.0,10.0,17.0
+Davao del Norte,2021,11,27354.0,15,2,8,14
+Davao del Norte,2023,11,31286.0,16,2,8,15
+Davao del Sur (w/o the City of Davao),2018,18.0,25620.0,10.0,2.0,14.0,21.0
+Davao del Sur (w/o the City of Davao),2021,18,29300.0,9,2,15,21
+Davao del Sur (w/o the City of Davao),2023,14,30861.0,11,2,11,17
+City of Davao,2018,10.0,25942.0,23.0,2.0,5.0,14.0
+City of Davao,2021,8,30138.0,18,1,5,10
+City of Davao,2023,12,31535.0,27,3,6,19
+Davao Oriental,2018,38.0,26347.0,6.0,2.0,33.0,42.0
+Davao Oriental,2021,30,27806.0,8,2,26,35
+Davao Oriental,2023,39,33617.0,6,2,35,43
+Davao de Oro,2018,25.0,25867.0,8.0,2.0,21.0,29.0
+Davao de Oro,2021,24,26161.0,9,2,20,28
+Davao de Oro,2023,10,29573.0,14,1,7,13
+Davao Occidental,2018,41.0,25356.0,6.0,3.0,36.0,46.0
+Davao Occidental,2021,43,28511.0,7,3,38,49
+Davao Occidental,2023,28,28905.0,11,3,22,34
+Region XII (SOCCSKSARGEN),2018,27.0,25023.0,5.0,1.0,25.0,30.0
+Region XII (SOCCSKSARGEN),2021,27,26443.0,5,1,25,30
+Region XII (SOCCSKSARGEN),2023,23,29379.0,6,1,20,26
+Cotabato,2018,29.0,25020.0,10.0,3.0,24.0,35.0
+Cotabato,2021,32,27473.0,9,3,26,38
+Cotabato,2023,24,31276.0,13,3,18,30
+Sarangani,2018,42.0,23282.0,8.0,4.0,35.0,49.0
+Sarangani,2021,41,24070.0,7,3,36,47
+Sarangani,2023,31,27755.0,10,3,25,37
+South Cotabato (w/o the City of Gen. Santos),2018,20.0,25107.0,14.0,3.0,15.0,26.0
+South Cotabato (w/o the City of Gen. Santos),2021,18,24219.0,13,2,14,23
+South Cotabato (w/o the City of Gen. Santos),2023,18,28134.0,14,2,13,23
+City of General Santos (Dadiangas),2018,15.0,25518.0,12.0,2.0,11.0,18.0
+City of General Santos (Dadiangas),2021,14,24930.0,10,1,11,17
+City of General Santos (Dadiangas),2023,8,28580.0,15,1,6,11
+Sultan Kudarat,2018,32.0,23775.0,8.0,3.0,26.0,37.0
+Sultan Kudarat,2021,30,25295.0,9,3,25,36
+Sultan Kudarat,2023,34,29215.0,10,3,28,41
+Region XIII (Caraga),2018,31.0,25375.0,3.0,1.0,29.0,33.0
+Region XIII (Caraga),2021,33,27335.0,3,1,31,35
+Region XIII (Caraga),2023,21,29565.0,5,1,19,23
+Agusan del Norte (w/o the City of Butuan),2018,28.0,23585.0,8.0,2.0,24.0,32.0
+Agusan del Norte (w/o the City of Butuan),2021,32,27090.0,7,2,28,37
+Agusan del Norte (w/o the City of Butuan),2023,23,29101.0,10,2,18,27
+City of Butuan,2018,21.0,24040.0,10.0,2.0,17.0,25.0
+City of Butuan,2021,29,28455.0,7,2,25,33
+City of Butuan,2023,17,29503.0,10,2,13,20
+Agusan del Sur,2018,38.0,24655.0,6.0,2.0,33.0,43.0
+Agusan del Sur,2021,41,27821.0,6,3,36,46
+Agusan del Sur,2023,32,29210.0,8,3,27,37
+Surigao del Norte,2018,34.0,28293.0,6.0,2.0,30.0,38.0
+Surigao del Norte,2021,28,26444.0,11,3,22,34
+Surigao del Norte,2023,10,29865.0,12,1,8,12
+Surigao del Sur,2018,25.0,24873.0,8.0,2.0,21.0,30.0
+Surigao del Sur,2021,31,26441.0,7,2,27,36
+Surigao del Sur,2023,16,28997.0,11,2,13,20
+Dinagat Islands,2018,33.0,26409.0,10.0,3.0,26.0,39.0
+Dinagat Islands,2021,33,28907.0,10,3,27,40
+Dinagat Islands,2023,29,33989.0,8,2,25,34
+Bangsamoro Autonomous Region in Muslim Mindanao (BARMM),2018,60.0,27715.0,2.0,1.0,58.0,63.0
+Bangsamoro Autonomous Region in Muslim Mindanao (BARMM),2021,35,27234.0,4,1,33,38
+Bangsamoro Autonomous Region in Muslim Mindanao (BARMM),2023,32,30922.0,3,1,30,34
+Basilan,2018,74.0,26951.0,3.0,2.0,69.0,78.0
+Basilan,2021,54,26728.0,5,3,48,59
+Basilan,2023,46,31577.0,6,3,41,51
+Lanao del Sur,2018,71.0,29224.0,3.0,2.0,67.0,75.0
+Lanao del Sur,2021,11,29083.0,10,1,9,13
+Lanao del Sur,2023,18,33513.0,10,2,14,21
+Maguindanao,2018,49.0,25368.0,7.0,3.0,42.0,55.0
+Maguindanao,2021,38,25371.0,8,3,32,44
+Maguindanao,2023,42,27965.0,4,2,38,46
+Maguindanao del Norte,2018,,,,,,
+Maguindanao del Norte,2021,,,,,,
+Maguindanao del Norte,2023,40,28024.0,6,2,36,45
+Maguindanao del Sur,2018,,,,,,
+Maguindanao del Sur,2021,,,,,,
+Maguindanao del Sur,2023,43,27919.0,6,3,38,49
+Sulu,2018,83.0,29150.0,2.0,2.0,79.0,86.0
+Sulu,2021,53,29195.0,5,3,48,58
+Sulu,2023,21,30407.0,11,2,16,25
+Tawi-tawi,2018,22.0,21264.0,8.0,2.0,19.0,26.0
+Tawi-tawi,2021,37,26336.0,9,3,30,43
+Tawi-tawi,2023,42,31380.0,8,4,35,49
+Cotabato City,2018,42.0,30349.0,6.0,3.0,37.0,47.0
+Cotabato City,2021,40,33890.0,7,3,34,45
+Cotabato City,2023,45,38572.0,7,3,39,51
